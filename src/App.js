@@ -3,9 +3,9 @@ import Header from "./Header";
 import "./App.css";
 import Feed from "./Feed";
 import Sidebar from "./Sidebar";
-import Widgets from "./Widgets";
 import Login from "./Login";
 import { useStateValue } from "./StateProvider";
+import Widgets from "./Widgets";
 
 function App() {
   const [{ user }, dispatch] = useStateValue();

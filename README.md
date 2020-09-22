@@ -1,6 +1,13 @@
 <h3> Facebook-Clone Project <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" height="40px">
 </h3>
 
+
+### Description
+
+Facebook-clone web application https://facebook-clone-57566.web.app/ <br/>
+A ReactJs Social Media App. <br/>
+<h3>Features:</h3> <p> Authentication | Add Post | Add Story | Add advertisement/widgets </p><br/><br/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
